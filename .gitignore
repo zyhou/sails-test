@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ################################################
 ###############  .gitignore   ##################
 ################################################
@@ -147,7 +146,6 @@ coverage
 build/Release
 
 # Dependency directories
-node_modules
 jspm_packages
 
 # Optional npm cache directory
@@ -155,4 +153,3 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
->>>>>>> edf9cd4c443f7a8f215ebf7f2c5f403bf5dc5e84
